@@ -4,7 +4,7 @@ Final-year B.Tech CSE (AI & ML) student at AKTU, graduating August 2027. I build
 
 Open to **Java Backend Developer**, **SDE Intern** and **Full Stack** roles.
 
-🌐 **Portfolio:** [anuj-portfolio-seven-lake.vercel.app](https://anuj-portfolio-seven-lake.vercel.app) · 📄 [Résumé](https://anuj-portfolio-seven-lake.vercel.app/assets/Anuj-Pal-Resume.pdf)
+🌐 **Portfolio:** [anujpal.vercel.app](https://anujpal.vercel.app) · 📄 [Résumé](https://anujpal.vercel.app/assets/Anuj-Pal-Resume.pdf)
 
 ## Featured projects
 
