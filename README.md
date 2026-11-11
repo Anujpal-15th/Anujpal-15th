@@ -4,6 +4,8 @@ Final-year B.Tech CSE (AI & ML) student at AKTU, graduating August 2027. I build
 
 Open to **Java Backend Developer**, **SDE Intern** and **Full Stack** roles.
 
+🌐 **Portfolio:** [anuj-portfolio-seven-lake.vercel.app](https://anuj-portfolio-seven-lake.vercel.app) · 📄 [Résumé](https://anuj-portfolio-seven-lake.vercel.app/assets/Anuj-Pal-Resume.pdf)
+
 ## Featured projects
 
 ### [CodeSense AI](https://github.com/Anujpal-15th/codesense-ai) · [Live demo](https://codesense-ai-phi.vercel.app)
@@ -31,10 +33,15 @@ Shows students exactly where their code diverges from a correct solution, step b
 
 ## Other projects
 
-- [resolve-creative-editor-mcp](https://github.com/Anujpal-15th/resolve-creative-editor-mcp): edit video in DaVinci Resolve by talking to Claude (MCP server, Python)
-- [storage-cleaner](https://github.com/Anujpal-15th/storage-cleaner): Windows app that shows what fills your drives and what is safe to delete (Python)
 - [virtual-study-cafe](https://github.com/Anujpal-15th/virtual-study-cafe): real-time study rooms with Django and WebSockets, built during the Edunet Foundation × EY full-stack program
-- [learn-it](https://github.com/Anujpal-15th/learn-it): guided roadmap platform for Java and AI engineers ([live](https://learn-it-roan.vercel.app))
+
+### Vibe coded (built end to end with AI tools)
+I came up with the idea, directed the build and tested it; AI wrote most of the code.
+
+- [resolve-creative-editor-mcp](https://github.com/Anujpal-15th/resolve-creative-editor-mcp): edit video in DaVinci Resolve by talking to Claude (MCP server)
+- [storage-cleaner](https://github.com/Anujpal-15th/storage-cleaner): Windows app that shows what is safe to delete
+- [learn-it](https://github.com/Anujpal-15th/learn-it): guided roadmaps for Java and AI engineers ([live](https://learn-it-roan.vercel.app))
+- [static-sessions](https://github.com/Anujpal-15th/static-sessions): nostalgia radio ([live](https://radio-mu-five.vercel.app))
 
 ## Tech
 
@@ -49,4 +56,4 @@ Shows students exactly where their code diverges from a correct solution, step b
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 
-📍 Meerut, India · 📫 sout.anujpal@gmail.com
+📍 Meerut, India · 📫 sout.anujpal@gmail.com · [LinkedIn](https://www.linkedin.com/in/anuj-pal-15th/) · [LeetCode](https://leetcode.com/Anuj_15th)
