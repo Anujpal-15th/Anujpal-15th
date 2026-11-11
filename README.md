@@ -33,7 +33,7 @@ Shows students exactly where their code diverges from a correct solution, step b
 
 - [resolve-creative-editor-mcp](https://github.com/Anujpal-15th/resolve-creative-editor-mcp): edit video in DaVinci Resolve by talking to Claude (MCP server, Python)
 - [storage-cleaner](https://github.com/Anujpal-15th/storage-cleaner): Windows app that shows what fills your drives and what is safe to delete (Python)
-- [virtual-study-cafe](https://github.com/Anujpal-15th/virtual-study-cafe): real-time study rooms with Django and WebSockets
+- [virtual-study-cafe](https://github.com/Anujpal-15th/virtual-study-cafe): real-time study rooms with Django and WebSockets, built during the Edunet Foundation × EY full-stack program
 - [learn-it](https://github.com/Anujpal-15th/learn-it): guided roadmap platform for Java and AI engineers ([live](https://learn-it-roan.vercel.app))
 
 ## Tech
